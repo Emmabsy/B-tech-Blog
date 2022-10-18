@@ -4,6 +4,7 @@
 This is a completely responsive blog website that is compatible with all  devices. <br>
  The application is built with html, CSS and Javascript
 </h3>
+     <img src="./images/blogs.png" alt="">
 
 
 ### 🤝 Connect with me on:
